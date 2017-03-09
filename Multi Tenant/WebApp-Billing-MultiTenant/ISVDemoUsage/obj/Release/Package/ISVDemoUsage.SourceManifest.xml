@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\bilalamjad\Desktop\Desktop Downloads\Microsoft\New folder-final\multitenant-master\WebApp-Billing-MultiTenant\ISVDemoUsage\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\bilalamjad\Desktop\Desktop Downloads\Microsoft\New folder-final\multitenant-master\WebApp-Billing-MultiTenant\ISVDemoUsage\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\bilalamjad\Desktop\Desktop Downloads\Microsoft\New folder-final\multitenant-master\WebApp-Billing-MultiTenant\ISVDemoUsage\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\bilalamjad\Desktop\Desktop Downloads\Microsoft\New folder-final\multitenant-master\WebApp-Billing-MultiTenant\ISVDemoUsage\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>
